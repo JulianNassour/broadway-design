@@ -59,6 +59,14 @@ h4 {
   font-size: 14px;
 }
 
+.banner-gray {
+  background-color: dimgray;
+}
+
+.inline {
+  display: inline;
+}
+
 #white-center {
   font-size: 23px;
   font-weight: bold;
